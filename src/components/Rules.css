@@ -1,0 +1,36 @@
+.Rules {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.Rulescontent {
+    background-color: #d0ebff;
+    box-shadow: 5px 5px;
+    margin: 0 auto;
+    border: 2px solid;
+    border-radius: 10px;
+    max-width: 600px;
+}
+
+.RulesHeader {
+    text-align: center;
+}
+
+.Rules .Clickme{
+    text-align: right;
+    color: #AD8152;
+    padding-right: 10px;
+}
+
+.Rules .Section{
+    margin: 15px;
+    padding-left: 20px;
+    font-size: large;
+    font-weight: 500;
+    max-width: 500px;
+}
